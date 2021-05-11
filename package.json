@@ -1,0 +1,27 @@
+{
+  "name": "rastgele-araclar",
+  "version": "0.0.0",
+  "description": "Rastgele Araçlar. Ve Çok Daha Fazlası!",
+  "main": "module.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "PatrickZ",
+  "license": "MIT",
+  "dependencies": {
+    "node-fetch": "^2.6.1"
+  },
+  "keywords": [
+  "rastgele",
+  "random",
+  "espri",
+   "emoji",
+   "atasözü",
+   "renk"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xPatrickZ/rastgele-araclar.git"
+  },
+  "homepage": "https://github.com/xPatrickZ/rastgele-araclar#readme"
+}

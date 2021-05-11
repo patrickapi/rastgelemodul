@@ -1,7 +1,7 @@
 {
-  "name": "rastgele-araclar",
-  "version": "0.0.0",
-  "description": "Rastgele Araçlar. Ve Çok Daha Fazlası!",
+  "name": "rastgelemodul",
+  "version": "1.0.0",
+  "description": "Rastgele Modül. Ve Çok Daha Fazlası!",
   "main": "module.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -21,7 +21,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/xPatrickZ/rastgele-araclar.git"
+    "url": "git+https://github.com/xPatrickZ/rastgelemodul.git"
   },
-  "homepage": "https://github.com/xPatrickZ/rastgele-araclar#readme"
+  "homepage": "https://github.com/xPatrickZ/rastgelemodul#readme"
 }

@@ -1,14 +1,14 @@
-# Rastgele Araçlar
+# Rastgele 
 &nbsp;
 
 Bu Modül Sayesinde Rastgele Şeylere Erişebilirsiniz. Yakında Çok Çok Daha Fazlası!
 
 
-```npm install rastgele-araclar```
+```npm install rastgelemodul```
 
 ```js
 //modülümüzü tanımlıyoruz
-const rastgele = require('rastgele-araclar');
+const rastgele = require('rastgelemodul');
 
 //rastgele espri methodu
 rastgele.espri().then(espri => {
